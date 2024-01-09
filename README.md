@@ -1,5 +1,5 @@
 # Face
-**CSE 473/573 Face Detection and Recognition Project.**
+**Face Detection and Recognition Project.**
 #### <font color=red>You can only use opencv 4.5.4 for this project.</font>
 
 
